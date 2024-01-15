@@ -30,7 +30,7 @@ Console.Clear();
     if (wybor == 1)
     {
         Console.WriteLine(text);
-        Console.WriteLine("HOW MANY DISCORD NITRO CODES DO YOU WANT GENERATE?: ");
+        Console.WriteLine("HOW MANY DISCORD NITRO CODES DO YOU WANT GENERATE?: 10");
         Console.Write(">");
         var dlugosc = Convert.ToInt32(Console.ReadLine());
         Console.Clear();
